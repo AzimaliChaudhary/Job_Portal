@@ -1,0 +1,23 @@
+c:\users\owner\documents\visual studio 2010\Projects\jobportal\jobportal\bin\jobportal.dll
+c:\users\owner\documents\visual studio 2010\Projects\jobportal\jobportal\bin\jobportal.pdb
+c:\users\owner\documents\visual studio 2010\Projects\jobportal\jobportal\obj\Debug\jobportal.dll
+c:\users\owner\documents\visual studio 2010\Projects\jobportal\jobportal\obj\Debug\jobportal.pdb
+C:\Users\NANDOLIYA ABBASALI\Documents\Visual Studio 2010\Projects\jobportal\jobportal\bin\jobportal.dll
+C:\Users\NANDOLIYA ABBASALI\Documents\Visual Studio 2010\Projects\jobportal\jobportal\bin\jobportal.pdb
+C:\Users\NANDOLIYA ABBASALI\Documents\Visual Studio 2010\Projects\jobportal\jobportal\obj\Debug\jobportal.dll
+C:\Users\NANDOLIYA ABBASALI\Documents\Visual Studio 2010\Projects\jobportal\jobportal\obj\Debug\jobportal.pdb
+C:\Users\Azim Chaudhary\Documents\Visual Studio 2010\Projects\jobportal\jobportal\bin\jobportal.dll
+C:\Users\Azim Chaudhary\Documents\Visual Studio 2010\Projects\jobportal\jobportal\bin\jobportal.pdb
+C:\Users\Azim Chaudhary\Documents\Visual Studio 2010\Projects\jobportal\jobportal\obj\Debug\jobportal.dll
+C:\Users\Azim Chaudhary\Documents\Visual Studio 2010\Projects\jobportal\jobportal\obj\Debug\jobportal.pdb
+C:\Users\Azim Chaudhary\Documents\Visual Studio 2010\Projects\jobportal\jobportal\obj\Debug\jobportal.csprojResolveAssemblyReference.cache
+D:\Final_Project\jobportal\bin\jobportal.dll
+D:\Final_Project\jobportal\bin\jobportal.pdb
+D:\Final_Project\jobportal\obj\Debug\jobportal.csprojResolveAssemblyReference.cache
+D:\Final_Project\jobportal\obj\Debug\jobportal.dll
+D:\Final_Project\jobportal\obj\Debug\jobportal.pdb
+D:\BCA\Final_Project\jobportal\bin\jobportal.dll
+D:\BCA\Final_Project\jobportal\bin\jobportal.pdb
+D:\BCA\Final_Project\jobportal\obj\Debug\jobportal.csprojResolveAssemblyReference.cache
+D:\BCA\Final_Project\jobportal\obj\Debug\jobportal.dll
+D:\BCA\Final_Project\jobportal\obj\Debug\jobportal.pdb
