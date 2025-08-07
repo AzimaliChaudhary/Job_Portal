@@ -44,3 +44,5 @@ It is designed to streamline the hiring process by connecting **job seekers** wi
 - `Country` – Stores country info
 - `News` – Displays news/updates on portal
 
+
+
